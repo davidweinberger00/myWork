@@ -1,0 +1,5 @@
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.DTO\bin\Debug\DavidsPizza.DTO.dll
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.DTO\bin\Debug\DavidsPizza.DTO.pdb
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.DTO\obj\Debug\DavidsPizza.DTO.csproj.CoreCompileInputs.cache
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.DTO\obj\Debug\DavidsPizza.DTO.dll
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.DTO\obj\Debug\DavidsPizza.DTO.pdb

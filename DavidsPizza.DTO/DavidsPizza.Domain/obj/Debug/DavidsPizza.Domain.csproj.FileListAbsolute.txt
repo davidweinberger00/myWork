@@ -1,0 +1,14 @@
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\obj\Debug\DavidsPizza.Domain.csproj.AssemblyReference.cache
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\obj\Debug\DavidsPizza.Domain.csproj.CoreCompileInputs.cache
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\bin\Debug\DavidsPizza.Domain.dll
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\bin\Debug\DavidsPizza.Domain.pdb
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\bin\Debug\DavidsPizza.DTO.dll
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\bin\Debug\DavidsPizza.Persistence.dll
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\bin\Debug\EntityFramework.dll
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\bin\Debug\DavidsPizza.DTO.pdb
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\bin\Debug\DavidsPizza.Persistence.pdb
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\bin\Debug\DavidsPizza.Persistence.dll.config
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\bin\Debug\EntityFramework.xml
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\obj\Debug\DavidsPizza.Domain.csproj.CopyComplete
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\obj\Debug\DavidsPizza.Domain.dll
+D:\Programing Platform\WabForm\DavidsPizza\DavidsPizza.Domain\obj\Debug\DavidsPizza.Domain.pdb
